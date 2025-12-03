@@ -1,5 +1,4 @@
 # 🌎 **GUARDIANES DEL CLIMA: LA VAQUERITA**  
-## **README ACADÉMICO – Creación de Videojuegos**
 
 ## 📘 **PORTADA**
 
@@ -53,10 +52,8 @@ El mundo atraviesa una crisis ambiental sin precedentes. Sequías, incendios for
 ## 🌵 **7. Niveles**
 
 1. Desierto  
-2. Bosque incendiado  
-3. Ciudad lluvia ácida  
-4. Montaña nevada  
-5. Cueva del viento  
+2. Invierno
+3. Verano
 
 ## ❤️ **8. HUD**
 
@@ -94,7 +91,6 @@ Incluye estudio de mercado, competencia, tendencias, público objetivo.
 Modelo **Free-to-Play con cosméticos**, más **publicidad moderada**.
 
 ## 🧩 **14. Integración del Modelo de Negocio**
-
 El modelo F2P permite accesibilidad total sin afectar la experiencia educativa.
 
 ## 🔗 **15. Enlaces a Builds (por agregar)**
