@@ -93,15 +93,14 @@ Modelo **Free-to-Play con cosméticos**, más **publicidad moderada**.
 ## 🧩 **14. Integración del Modelo de Negocio**
 El modelo F2P permite accesibilidad total sin afectar la experiencia educativa.
 
-## 🔗 **15. Enlaces a Builds (por agregar)**
+## 🔗 **15. Enlaces a Builds**
 
 | Plataforma | Estado | Enlace |
 |-----------|--------|--------|
-| Windows (.exe) | Pendiente | *Pegar enlace aquí* |
-| Android (.apk) | Pendiente | *Pegar enlace aquí* |
-| WebGL (.zip) | Pendiente | *Pegar enlace aquí* |
-| Jugar en navegador | Pendiente | *Pegar enlace aquí* |
-| Video Gameplay | Pendiente | *Pegar enlace aquí* |
+| Windows (.zip) | ✔ Disponible | https://github.com/CristelRR/MundoEstaciones_Web/releases/download/v1.0.0/MundoEstaciones.zip |
+| Android (.apk) | ✔ Disponible | https://github.com/CristelRR/MundoEstaciones_Web/releases/download/v1.0.0/mundoestaciones.apk |
+| Jugar en navegador (GitHub Pages) | ✔ Disponible | https://cristelrr.github.io/MundoEstaciones_Web/ |
+| Informe del Videojuego (Google Docs) | ✔ Disponible | https://docs.google.com/document/d/1ISJqe_wS6a85PbXoNOnX2P1xx-FwonjI/edit?usp=drive_link&ouid=103685276235918134766&rtpof=true&sd=true |
 
 ## 👩‍💻 **16. Créditos**
 
